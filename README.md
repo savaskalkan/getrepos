@@ -1,7 +1,8 @@
 # getrepos
 
-React native + redux 
-Scroll loading
+React native
+Redux 
 Redux-thunk
+Scroll loading
 Reusable component design
 React navigation
